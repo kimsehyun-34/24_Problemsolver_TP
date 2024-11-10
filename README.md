@@ -29,4 +29,4 @@
 [[붙임2] 데이터 플랫폼 목록.pdf](https://github.com/user-attachments/files/17659276/2.pdf)
 
 ----
-[미세먼지 데이터 수집 주소](https://www.airgangwon.go.kr/gwair/statistics/period/by_month).
+[미세먼지 데이터 수집 주소](https://www.airgangwon.go.kr/gwair/statistics/period/by_month) - `https://www.airgangwon.go.kr/gwair/statistics/period/by_month`
