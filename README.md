@@ -6,6 +6,7 @@
   <img style="float:left" src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoft excel&amp;logoColor=white" width="auto" height="40" />
 </div>
 ------
+
 # 전처리 활용 프로그램
 - `Union.py` ---> 같은 칼럼을 가진 데이터 파일들을 하나의 파일로 합치는데 사용. (폴더에 csv파일들과 Union.py를 넣고 실행)
 - `XLStoCSV.py` ----> XLS파일을 CSV파일로 변환하는데사용
