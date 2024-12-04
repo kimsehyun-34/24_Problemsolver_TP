@@ -1,4 +1,5 @@
-# 24_Problemsolver_TP
+# 24_Problemsolver_TP 
+> 2024년 2학기 문제해결프로그래밍 팀플
 
 <div>
   <img style="float:left; margin-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="auto" height="40" />
